@@ -1,6 +1,6 @@
 {
-    "name": "Catppuccin",
-    "description": "☕️ Catppuccin Mocha.",
+    "name": "CatppuccinAmoled",
+    "description": "☕️ Catppuccin Lavander Amoled.",
     "authors": [
         {
             "name": "HardcodedCat",
@@ -39,10 +39,10 @@
             "#181825"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#6c7086"
+            "#1e1e2e"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#6c7086"
+            "#1e1e2e"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#313244"
@@ -57,16 +57,16 @@
             "#24273a"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#11111b"
+            "#0c0c13"
         ],
         "BACKGROUND_TERTIARY": [
-            "#11111b"
+            "#0c0c13"
         ],
         "CHANNELS_DEFAULT": [
             "#cdd6f4"
         ],
         "CHANNEL_ICON": [
-            "#cba6f7"
+            "#b4befe"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#11111b"
@@ -144,7 +144,7 @@
             "#11111b"
         ],
         "INFO_HELP_FOREGROUND": [
-            "#11111b"
+            "#0c0c13"
         ],
         "INFO_HELP_TEXT": [
             "#cdd6f4"
@@ -153,7 +153,7 @@
             "#11111b"
         ],
         "INFO_POSITIVE_FOREGROUND": [
-            "#11111b"
+            "#0c0c13"
         ],
         "INFO_POSITIVE_TEXT": [
             "#cdd6f4"
@@ -162,7 +162,7 @@
             "#11111b"
         ],
         "INFO_WARNING_FOREGROUND": [
-            "#11111b"
+            "#0c0c13"
         ],
         "INFO_WARNING_TEXT": [
             "#bac2de"
@@ -198,7 +198,7 @@
             "#6c7086"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "11111b"
+            "0c0c13"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "#45475a"
@@ -250,11 +250,11 @@
         ]
     },
     "rawColors": {
-        "BRAND_500": "#cba6f7",
+        "BRAND_500": "#b4befe",
         "PRIMARY": "#45475a",
         "PRIMARY_100": "#cdd6f4",
         "PRIMARY_300": "#cdd6f4",
-        "PRIMARY_360": "#cba6f7",
+        "PRIMARY_360": "#b4befe",
         "PRIMARY_400": "#7f849c",
         "PRIMARY_500": "#11111b",
         "PRIMARY_600": "#11111b",
